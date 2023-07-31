@@ -1,5 +1,5 @@
 # CodeClause-PDFsplitter
-These is internship project on pdf splitter by CodeClause. I completed it. You can check on it. Thank you!
+These is a internship project on pdf-splitter by CodeClause. I completed it. You can check on it. Thank you!
 
 PDF Splitter
 Overview
