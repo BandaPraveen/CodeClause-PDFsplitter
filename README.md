@@ -14,7 +14,7 @@ Clone this repository to your local machine using git clone https://github.com/c
 Open the project in Eclipse IDE.
 Database Setup
 Install Oracle Database and create a new database (if you haven't already).
-Run the SQL script provided (pdf_splitter.sql) to create the required database tables and set up necessary configurations.
+Run the SQL script provided (pdf_splitter.sql) and (pdf_storage.sql) to create the required database tables and set up necessary configurations.
 Web Server Setup
 Install XAMPP (or any other web server software).
 Place the project directory inside the web server's htdocs directory.
